@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_hj"
+        android:icon="@drawable/sj"
+        android:title="数据" />
+    <item
+        android:id="@+id/navigation_cs"
+        android:icon="@drawable/kz1"
+        android:title="控制" />
+
+    <item
+        android:id="@+id/navigation_dk"
+        android:icon="@drawable/sz"
+        android:title="设置" />
+
+</menu>

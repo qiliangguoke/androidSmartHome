@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <!--这句代码
+        android:src="@drawable/app_bg"
+        /app_bg这里修改为自己图片的命名-->
+        <bitmap
+            android:antialias="true"
+            android:dither="true"
+            android:filter="true"
+
+            android:mipMap="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg111"
+            android:tileMode="disabled" />
+    </item>
+</layer-list>
